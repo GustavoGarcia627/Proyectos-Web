@@ -1,8 +1,12 @@
 @import url(Nav.css);
+@import url(stock.css);
+@import url(commons.css);
 
 body{
     padding: 0;
     margin: 0;
+    font-family:"Luckiest Guy",cursive;
+    text-align: center;
 }
 .luckiest-guy-regular {
     font-family: "Luckiest Guy", cursive;

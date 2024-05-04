@@ -1,0 +1,32 @@
+/*Diseño interior*/
+.stock h2,.stock ul{
+    padding: 20px;
+    margin: 0;
+    background-color: rgb(255,253,113);
+}
+
+.stock ul{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+
+}
+
+.stock ul li , .stock ul li a{
+    list-style: none;
+    text-decoration: none;
+    ;
+}
+
+.stock ul li{
+    width: 100%;
+    height: 100%;
+}
+
+.stock ul li a img{
+    width: 100%;
+    height: 100%;
+    border-radius: 40px
+}
+
+/*Diseño inferior*/

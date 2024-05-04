@@ -1,0 +1,23 @@
+/*Diseño superior*/
+.waveTop{
+    width: 100%;
+    position: relative;
+    top: 4px;
+    padding: 0%;
+}
+
+.waveDwn{
+    width: 100%;
+    position: relative;
+    bottom: 4px;
+    padding: 0%;
+}
+
+body .motivacion{
+    padding: 40px;
+}
+
+footer{
+    background-color: rgb(255,253,113);
+    padding: 40px;
+}
